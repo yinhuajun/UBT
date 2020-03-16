@@ -1,0 +1,11 @@
+Appium-Python-Client==0.28
+django-ckeditor==5.8.0
+django-js-asset==1.2.2
+parameterized==0.6.1
+Pillow==6.2.2
+pypiwin32==223
+pyse==0.0.9
+pyttsx3==2.7
+pywin32==223
+selenium==3.13.0
+virtualenv==16.7.7

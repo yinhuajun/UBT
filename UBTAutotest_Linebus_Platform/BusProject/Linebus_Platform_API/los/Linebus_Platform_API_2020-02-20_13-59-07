@@ -1,0 +1,10 @@
+2020-02-20 13:59:08,583 - Bus_API - INFO - 开始测试
+2020-02-20 13:59:08,584 - Bus_API - INFO - 测试标题是:资讯详情
+2020-02-20 13:59:08,584 - Bus_API - INFO - 测试的地址是:http://123.59.106.172:49633/tyjr-admin-api/admin/application/getInfoById
+2020-02-20 13:59:08,585 - Bus_API - INFO - 测试的header是:{"Authorization":"Bearer f13a7b99-e5fa-4df7-b6ae-0160ddc4b932"}
+2020-02-20 13:59:08,585 - Bus_API - INFO - 测试的参数是:{}
+2020-02-20 13:59:08,585 - Bus_API - INFO - 预期结果是:{"code": "P00000",
+  "msg": "操作成功"}
+2020-02-20 13:59:08,586 - Bus_API - INFO - 正在进行get请求
+2020-02-20 13:59:08,684 - Bus_API - INFO - the actual result :{'code': 'P00000', 'msg': '操作成功', 'data': None}
+2020-02-20 13:59:09,013 - Bus_API - INFO - 结束测试
