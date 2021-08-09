@@ -6,6 +6,6 @@ Pillow==6.2.2
 pypiwin32==223
 pyse==0.0.9
 pyttsx3==2.7
-pywin32==223
+pywin32==301
 selenium==3.13.0
 virtualenv==16.7.7
