@@ -2,7 +2,7 @@ Appium-Python-Client==0.28
 django-ckeditor==5.8.0
 django-js-asset==1.2.2
 parameterized==0.6.1
-Pillow==6.2.2
+Pillow==9.3.0
 pypiwin32==223
 pyse==0.0.9
 pyttsx3==2.7
